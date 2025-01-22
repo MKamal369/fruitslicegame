@@ -112,6 +112,10 @@
 //     }
 // }
 //
+
+window.alert('We suggest you to play this application on PC');
+window.alert('to slice the fruit move mouse on them');
+
 let action;
 let step;
 let list_fruits = ['apple', 'banana', 'enemy_1', 'enemy_2', 'pineapple', 'ship', 'watermelon']
