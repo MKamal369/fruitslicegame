@@ -114,6 +114,7 @@
 //
 
 window.alert('We suggest you to play this application on PC');
+window.alert('If You\'re phone try to tap the fruits')
 window.alert('to slice the fruit move mouse on them');
 
 let action;
