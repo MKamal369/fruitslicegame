@@ -113,9 +113,9 @@
 // }
 //
 
-window.alert('We suggest you to play this application on PC');
-window.alert('If You\'re phone try to tap the fruits')
-window.alert('to slice the fruit move mouse on them');
+window.alert('We Suggest You to Play This Application on PC');
+window.alert('If You\'re Using Phone Try to Tap on the Fruits')
+window.alert('PC: To Slice the Fruit Move the Mouse on the Fruits ');
 
 let action;
 let step;
